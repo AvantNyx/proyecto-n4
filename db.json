@@ -5,7 +5,7 @@
       "titulo": "Only One",
       "categoria": "front end",
       "descripción": "front manzana",
-      "imgvideo": "https://github.com/AvantNyx/proyecto-n4/blob/main/public/imgEjemplos/skull-crown.png",
+      "imgvideo": "public/imgEjemplos/skull-crown.png",
       "link": "https://youtube.com"
     },
     {
@@ -45,7 +45,7 @@
       "titulo": "Universe",
       "categoria": "back end",
       "descripción": "This is a test video",
-      "imgvideo": "/imgEjemplos/astronaut-moon.png",
+      "imgvideo": "proyecto-n4/public/imgejemplos/astronaut-moon.png",
       "link": "https://youtube.com"
     },
     {
