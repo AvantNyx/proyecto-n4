@@ -5,7 +5,7 @@
       "titulo": "Only One",
       "categoria": "front end",
       "descripción": "front manzana",
-      "imgvideo": "public/imgEjemplos/skull-crown.png",
+      "imgvideo": "https://raw.githubusercontent.com/AvantNyx/proyecto-n4/refs/heads/main/public/imgEjemplos/skull-crown.png",
       "link": "https://youtube.com"
     },
     {
@@ -13,7 +13,7 @@
       "titulo": "Cookies",
       "categoria": "front end",
       "descripción": "front naranja",
-      "imgvideo": "/imgEjemplos/retro-cartoon1.png",
+      "imgvideo": "https://raw.githubusercontent.com/AvantNyx/proyecto-n4/refs/heads/main/public/imgEjemplos/retro-cartoon1.png",
       "link": "https://youtube.com"
     },
     {
@@ -21,7 +21,7 @@
       "titulo": "Coffee",
       "categoria": "front end",
       "descripción": "front cereza",
-      "imgvideo": "/imgEjemplos/clip-coffee.png",
+      "imgvideo": "https://raw.githubusercontent.com/AvantNyx/proyecto-n4/refs/heads/main/public/imgEjemplos/clip-coffee.png",
       "link": "https://youtube.com"
     },
     {
@@ -29,7 +29,7 @@
       "titulo": "Saturno",
       "categoria": "back end",
       "descripción": "This is a test video",
-      "imgvideo": "/imgEjemplos/space-planet.png",
+      "imgvideo": "https://raw.githubusercontent.com/AvantNyx/proyecto-n4/refs/heads/main/public/imgEjemplos/space-planet.png",
       "link": "https://youtube.com"
     },
     {
@@ -37,7 +37,7 @@
       "titulo": "Satúrnus",
       "categoria": "back end",
       "descripción": "This is a test video",
-      "imgvideo": "/imgEjemplos/saturn-planet2.png",
+      "imgvideo": "https://raw.githubusercontent.com/AvantNyx/proyecto-n4/refs/heads/main/public/imgEjemplos/saturn-planet2.png",
       "link": "https://youtube.com"
     },
     {
@@ -53,7 +53,7 @@
       "titulo": "Ghost 1",
       "categoria": "innovación y gestión",
       "descripción": "This is a test video",
-      "imgvideo": "/imgEjemplos/cute-ghost.png",
+      "imgvideo": "https://raw.githubusercontent.com/AvantNyx/proyecto-n4/refs/heads/main/public/imgEjemplos/cute-ghost.png",
       "link": "https://youtube.com"
     },
     {
@@ -61,7 +61,7 @@
       "titulo": "Ghost 2",
       "categoria": "innovación y gestión",
       "descripción": "This is a test video",
-      "imgvideo": "/imgEjemplos/cute-ghost2.png",
+      "imgvideo": "https://raw.githubusercontent.com/AvantNyx/proyecto-n4/refs/heads/main/public/imgEjemplos/cute-ghost2.png",
       "link": "https://youtube.com"
     },
     {
@@ -69,7 +69,7 @@
       "titulo": "Ghost 3",
       "categoria": "innovación y gestión",
       "descripción": "This is a test video",
-      "imgvideo": "/imgEjemplos/cute-ghost3.png",
+      "imgvideo": "https://raw.githubusercontent.com/AvantNyx/proyecto-n4/refs/heads/main/public/imgEjemplos/cute-ghost3.png",
       "link": "https://youtube.com"
     }
   ]
