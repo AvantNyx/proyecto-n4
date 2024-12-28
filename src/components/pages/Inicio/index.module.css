@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.4em;
+    margin: 1.8em;
+    margin-bottom: 2em;
+}
+
+.eqtitle{ 
+    border-radius: 10px;
+    margin-top: 3em;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    margin-left: 1.4em;
+    width: 340px;
+}
+
+/* responsive */
+@media (max-width: 768px){
+
+.container{
+    justify-content: center;
+}
+
+}

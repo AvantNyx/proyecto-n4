@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Only One",
+      "categoria": "front end",
+      "descripción": "front manzana",
+      "imgvideo": "/imgEjemplos/skull-crown.png",
+      "link": "https://youtube.com"
+    },
+    {
+      "id": "2",
+      "titulo": "Cookies",
+      "categoria": "front end",
+      "descripción": "front naranja",
+      "imgvideo": "/imgEjemplos/retro-cartoon1.png",
+      "link": "https://youtube.com"
+    },
+    {
+      "id": "3",
+      "titulo": "Coffee",
+      "categoria": "front end",
+      "descripción": "front cereza",
+      "imgvideo": "/imgEjemplos/clip-coffee.png",
+      "link": "https://youtube.com"
+    },
+    {
+      "id": "4",
+      "titulo": "Saturno",
+      "categoria": "back end",
+      "descripción": "This is a test video",
+      "imgvideo": "/imgEjemplos/space-planet.png",
+      "link": "https://youtube.com"
+    },
+    {
+      "id": "5",
+      "titulo": "Satúrnus",
+      "categoria": "back end",
+      "descripción": "This is a test video",
+      "imgvideo": "/imgEjemplos/saturn-planet2.png",
+      "link": "https://youtube.com"
+    },
+    {
+      "id": "6",
+      "titulo": "Universe",
+      "categoria": "back end",
+      "descripción": "This is a test video",
+      "imgvideo": "/imgEjemplos/astronaut-moon.png",
+      "link": "https://youtube.com"
+    },
+    {
+      "id": "7",
+      "titulo": "Ghost 1",
+      "categoria": "innovación y gestión",
+      "descripción": "This is a test video",
+      "imgvideo": "/imgEjemplos/cute-ghost.png",
+      "link": "https://youtube.com"
+    },
+    {
+      "id": "8",
+      "titulo": "Ghost 2",
+      "categoria": "innovación y gestión",
+      "descripción": "This is a test video",
+      "imgvideo": "/imgEjemplos/cute-ghost2.png",
+      "link": "https://youtube.com"
+    },
+    {
+      "id": "9",
+      "titulo": "Ghost 3",
+      "categoria": "innovación y gestión",
+      "descripción": "This is a test video",
+      "imgvideo": "/imgEjemplos/cute-ghost3.png",
+      "link": "https://youtube.com"
+    }
+  ]
+}

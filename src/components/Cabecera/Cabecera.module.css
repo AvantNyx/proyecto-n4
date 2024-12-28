@@ -1,0 +1,83 @@
+.cabecera{
+    display: flex;
+    padding: 1em 2em 1em 2em;
+    background-color: #262626;
+    justify-content: space-evenly;    
+}
+
+.logoContainer{
+    height: 34px;
+    display: flex;
+}
+
+.home, .nvideo{
+    cursor: pointer;
+    font-weight: bold;
+    color: #2271D1;
+    margin-right: 2em;
+    width: 130px;
+    padding: 5.6px 0px;
+    box-shadow: 0 0 2px 2px #2271D1;
+    border-radius: 10px;
+}
+
+
+.home2, .nvideo2{
+    display: none !important;
+}
+
+/* ------- Formulario ------*/
+
+.homeFormulario, .nvideoFormulario {
+    color: white;
+    background-color: #2271D1;
+  }
+
+.cabeceraFormulario{
+    background-color: #0f0f2069;
+    box-shadow: 0 0 2px 2px #2271D1;
+}
+
+
+/* responsive */
+@media (max-width: 768px){
+
+    .logoContainer{
+        height: 24px;
+    }
+
+    .cabecera{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;       
+    }
+
+    .home2, .nvideo2 {
+        display: inline-flex !important;
+        align-items: center;
+        justify-content: center;
+        background-color: #93c4ff27;
+        border: 2px solid rgb(39, 132, 255);
+        color: rgb(39, 132, 255);
+        font-size: 12px;
+        padding: 5px 10px;
+        border-radius: 8px;
+        margin-left: 2em;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+    .cabecera .home2 + .nvideo2{
+        margin-left: 10px;
+    }
+    
+    .cabecera{
+        flex-direction: row;
+    }
+
+    .home, .nvideo{
+        display: none;
+    }
+
+}

@@ -1,0 +1,77 @@
+.formu{
+    font-family: var(--roboto-font);
+    color: #F5F5F5;
+    display: flexbox;
+    margin: 3em;
+    
+}
+
+.formsub{
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+    
+}
+
+.formulario{
+    margin-left: 4em;
+    margin-right: 4em;
+    
+
+}
+
+.textFieldsContainer, .textFieldsContainer2 {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 2em;
+    margin-top: 8px;
+}
+
+.textFieldsContainer3 {
+    display: flex;
+    margin-top: 3em;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.botonesForm{
+    display: flex;
+    justify-content: center;
+    margin-top: 34px;
+}
+
+.btguardar, .btlimpiar{
+    margin-right: 2em;
+    margin-bottom: 4em;
+    cursor: pointer;
+    font-weight: bold;
+    color: #0353b4;
+    width: 111px;
+    padding: 5.6px 0px;
+    border-radius: 10px;
+}
+
+.crtarjeta{
+    font-size: 24px;
+    padding: 1em;
+    border-top: 2px solid rgba(102, 98, 98, 0.603);
+    border-bottom: 2px solid rgba(102, 98, 98, 0.603);
+}
+
+/* responsive */
+@media (max-width: 768px){
+    .textFieldsContainer3{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1em;
+        margin-top: 28px;
+        margin-left: 1em;
+        margin-right: 1em;
+        
+    }
+}
