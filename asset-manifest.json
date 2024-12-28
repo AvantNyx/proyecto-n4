@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proyecto-n4/static/css/main.1fec3f00.css",
+    "main.js": "/proyecto-n4/static/js/main.a342d38c.js",
+    "static/media/banner-001.png": "/proyecto-n4/static/media/banner-001.106583b4c26796dde15a.png",
+    "static/media/robot-bnnr-01.png": "/proyecto-n4/static/media/robot-bnnr-01.f3f6ec6062dfe565d518.png",
+    "static/media/Logo.png": "/proyecto-n4/static/media/Logo.19e622732c7c72fd4467.png",
+    "index.html": "/proyecto-n4/index.html",
+    "main.1fec3f00.css.map": "/proyecto-n4/static/css/main.1fec3f00.css.map",
+    "main.a342d38c.js.map": "/proyecto-n4/static/js/main.a342d38c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fec3f00.css",
+    "static/js/main.a342d38c.js"
+  ]
+}
