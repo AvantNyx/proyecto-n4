@@ -30,13 +30,18 @@ Simulación de una api rest utilizando **Node js**
 
 <img src="images/avantflix-addvideo.gif">
 
+---
+
+### <img src="images/netlify-ico.png"> Link del proyecto en NETLIFY
+
+<h3> [Avantflix open App](https://avantflix-n4.netlify.app/) </h3>
+
+---
+
 ### ˙ᵕ˙ Tecnologías utilizadas
 
 HTML, CSS y JavaScript.
 
-### 🔗 Link del proyecto en NETLIFY
-
-[(Avantflix open App)](https://avantflix-n4.netlify.app/)
 
 # ╰┈➤ Author
 
