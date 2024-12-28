@@ -1,7 +1,7 @@
 
 export const fetchVideos = async () => {
     try {
-      const response = await fetch("http://localhost:5000/videos");
+      const response = await fetch("https://my-json-server.typicode.com/AvantNyx/proyecto-n4/videos");
       if (!response.ok) {
         throw new Error("Error al obtener los videos");
       }
@@ -14,7 +14,7 @@ export const fetchVideos = async () => {
 
 export const updateVideo = async (id, updatedVideoData) => {
     try {
-      const response = await fetch(`http://localhost:5000/videos/${id}`, {
+      const response = await fetch(`https://my-json-server.typicode.com/AvantNyx/proyecto-n4/videos${id}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
@@ -34,7 +34,7 @@ export const updateVideo = async (id, updatedVideoData) => {
   };
 
   export const addVideo = async (video) => {
-    const response = await fetch('http://localhost:5000/videos', {
+    const response = await fetch('https://my-json-server.typicode.com/AvantNyx/proyecto-n4/videos', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
