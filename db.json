@@ -45,7 +45,7 @@
       "titulo": "Universe",
       "categoria": "back end",
       "descripción": "This is a test video",
-      "imgvideo": "proyecto-n4/public/imgejemplos/astronaut-moon.png",
+      "imgvideo": "https://raw.githubusercontent.com/AvantNyx/proyecto-n4/refs/heads/main/public/imgEjemplos/astronaut-moon.png",
       "link": "https://youtube.com"
     },
     {
