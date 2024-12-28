@@ -2,7 +2,7 @@
   "homepage": "https://avantnyx.github.io/proyecto-n4/",
   "name": "avantflix",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
