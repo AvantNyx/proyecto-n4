@@ -32,7 +32,7 @@ Simulación de una api rest utilizando **Node js**
 
 ---
 
-## <img src="images/netlify-ico.png" width="35"> Link del proyecto en NETLIFY
+## <img src="images/netlify-ico.png" width="24"> Link del proyecto en NETLIFY
 
  [Avantflix open App](https://avantflix-n4.netlify.app/)
 
